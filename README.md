@@ -1,7 +1,6 @@
 ### Python Developer | AI Engineer | Full-Stack Developer | Website Designer
 
 <p>
-  <a href="https://github.com/elenaoliver0477-ops">
     <img src="https://img.shields.io/badge/GitHub-elenaoliver0477--ops-111827?style=for-the-badge&logo=github" alt="GitHub profile badge" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Python-2563EB?style=for-the-badge" alt="Focus badge" />
