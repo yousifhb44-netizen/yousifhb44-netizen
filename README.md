@@ -1,14 +1,5 @@
 ### Python Developer | AI Engineer | Full-Stack Developer | Website Designer
 
-<p>
-    <img src="https://img.shields.io/badge/GitHub-elenaoliver0477--ops-111827?style=for-the-badge&logo=github" alt="GitHub profile badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Python-2563EB?style=for-the-badge" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Builds-Full--Stack%20Web%20Apps-0F766E?style=for-the-badge" alt="Builds badge" />
-</p>
-
-</div>
-
 ## Introduction
 
 I build practical digital products that combine thoughtful design with reliable engineering.
